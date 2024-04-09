@@ -18,6 +18,3 @@ spec:
     - templates/github/register-component/template.yaml
     - templates/github/tekton/template.yaml
     - templates/github/techdocs/template.yaml
-    - templates/github/liberty-backend/template.yaml
-    - templates/ghe/liberty-backend/template.yaml
-    - templates/ghe/templatetest.yaml
